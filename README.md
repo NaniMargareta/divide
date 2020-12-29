@@ -16,8 +16,7 @@ altele (care folosesc mulţimi de intrare disjuncte).
 În general implementarea metodei Divide et Impera se face prin funcţii recursive. De regulă vom avea o singură funcţie care primeşte ca parametri informaţiile necesare pentru a rezolva o subproblemă şi returnează rezultatele pentru subproblema respectivă.
 Funcţia va determina dacă subproblema este una trivială, caz în care va calcula direct soluţia pentru ea. Dacă subproblema nu este una trivială, atunci funcţia va împărţi subproblema în subsubprobleme şi se va auto-apela în mod recursiv pentru fiecare din ele. Pe urmă va combina rezultate obţinute pentru subsubprobleme şi va găsi soluţia pentru subproblemă.
 
-
-
+![image](https://user-images.githubusercontent.com/75802120/103306276-def07000-4a15-11eb-9b94-58edba94492c.png)
 
 # 3.SCREENSHOTURI
 (cum ruleaza aplicatia)
