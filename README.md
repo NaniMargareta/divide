@@ -5,13 +5,10 @@ Pentru a rula proiectul accesati acest link:
 
 # 1.SCOPUL
 (ce problema solutioneoaza acest program)
-Metoda se foloseşte în problemele care pot fi
-descompuse în subprobleme similare cu
-problema iniţială (care se rezolvă prin aceeaşi
-metodă) şi care prelucrează mulţimi de date de
-dimensiuni mai mici, independente unele de
-altele (care folosesc mulţimi de intrare
-disjuncte).
+
+Metoda se foloseşte în problemele care pot fi descompuse în subprobleme similare cu problema iniţială 
+(care se rezolvă prin aceeaşi metodă) şi care prelucrează mulţimi de date de dimensiuni mai mici, independente unele de
+altele (care folosesc mulţimi de intrare disjuncte).
 
 # 2.DESCRIEREA ALGORITMULUI
 (cum lucreaza din punct de vedere a algoritmului, se poate imagini, scheme logice sau explicatia pe pasi)
