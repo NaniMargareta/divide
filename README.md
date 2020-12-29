@@ -11,7 +11,7 @@ Metoda se foloseşte în problemele care pot fi descompuse în subprobleme simil
 altele (care folosesc mulţimi de intrare disjuncte).
 
 # 2.DESCRIEREA ALGORITMULUI
-(cum lucreaza din punct de vedere a algoritmului, se poate imagini, scheme logice sau explicatia pe pasi)
+(cum lucreaza din punct de vedere a algoritmului)
 
 În general implementarea metodei Divide et Impera se face prin funcţii recursive. De regulă vom avea o singură funcţie care primeşte ca parametri informaţiile necesare pentru a rezolva o subproblemă şi returnează rezultatele pentru subproblema respectivă.
 Funcţia va determina dacă subproblema este una trivială, caz în care va calcula direct soluţia pentru ea. Dacă subproblema nu este una trivială, atunci funcţia va împărţi subproblema în subsubprobleme şi se va auto-apela în mod recursiv pentru fiecare din ele. Pe urmă va combina rezultate obţinute pentru subsubprobleme şi va găsi soluţia pentru subproblemă.
