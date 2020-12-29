@@ -11,4 +11,4 @@ Pentru a rula proiectul accesati acest link:
 # 3.SCREENSHOTURI
 (cum ruleaza aplicatia)
 
-#4.CONCLUZII
+# 4.CONCLUZII
