@@ -24,3 +24,7 @@ Funcţia va determina dacă subproblema este una trivială, caz în care va calc
 ![image](https://user-images.githubusercontent.com/75802120/103305414-c0897500-4a13-11eb-9a81-294ab99d5661.png)
 
 # 4.CONCLUZII
+
+- Algoritmii divide et impera sunt în general rapizi, deoarece prin descompunere, de cele mai multe ori, se obţin probleme pentru care rezolvarea şi combinarea soluţiilor au un grad de complexitate mai mic decât problema iniţială.
+- Algoritmii divide et impera se implementează, de obicei, într-un subprogram recursiv.
+- Nu toate problemele pot fi rezolvate prin utilizarea acestei tehnici. Numărul problemelor rezolvabile prin divide et impera este relativ mic, tocmai datorită cerinței ca problema să admită o descompunere repetată.
